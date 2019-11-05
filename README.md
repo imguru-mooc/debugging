@@ -1,0 +1,2 @@
+# debugging
+embedded system debugginh
